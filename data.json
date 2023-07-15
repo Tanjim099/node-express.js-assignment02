@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1",
+        "name" : "Shirt",
+        "price" : "899",
+        "category" : "men"
+    },
+    {
+        "id" : "2",
+        "name" : "watch",
+        "price" : "1899",
+        "category" : "men"
+    },
+    {
+        "id" : "3",
+        "name" : "Full T-Shirt",
+        "price" : "330",
+        "category" : "men"
+    },
+    {
+        "id" : "4",
+        "name" : "T Shirt",
+        "price" : "520",
+        "category" : "men"
+    },
+    {
+        "id" : "5",
+        "name" : "FUNDAY FASHION",
+        "price" : "399",
+        "category" : "women"
+    },
+    {
+        "id" : "6",
+        "name" : "DIMPY GARMENTS",
+        "price" : "420",
+        "category" : "women"
+    },
+    {
+        "id" : "7",
+        "name" : "SIGHTBOMB",
+        "price" : "409",
+        "category" : "women"
+    },
+    {
+        "id" : "8",
+        "name" : "Leather Retail",
+        "price" : "1709",
+        "category" : "women"
+    }
+]
